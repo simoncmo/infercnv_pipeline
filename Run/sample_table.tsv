@@ -1,0 +1,4 @@
+sample_id	seurat_object	meta_path	assay	celltype_colname	ref_celltypes
+C1245129	/diskmnt/Users2/simonmo/Tools/Seurat/InferCNV/output/v9/RNA/C1245129/merged_C1245129.rds.gz	/diskmnt/Users2/simonmo/Tools/Seurat/InferCNV/output/v9/RNA/C1245129/merged_C1245129.metadata.csv.gz	RNA	cell_type	Astrocyte,Oligodendrocyte,Microglia,Endothelial
+C1245130	/diskmnt/Users2/simonmo/Tools/Seurat/InferCNV/output/v9/RNA/C1245130/merged_C1245130.rds.gz	NA	RNA	cell_type	Astrocyte,Oligodendrocyte,Microglia
+C1245131	/diskmnt/Users2/simonmo/Tools/Seurat/InferCNV/output/v9/RNA/C1245131/merged_C1245131.rds.gz	/diskmnt/Users2/simonmo/Tools/Seurat/InferCNV/output/v9/RNA/C1245131/merged_C1245131.metadata.csv.gz	RNA	cell_type_v5_maxCluster	Astrocyte,Oligodendrocyte,Microglia,Endothelial,Neuron
