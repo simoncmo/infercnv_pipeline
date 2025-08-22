@@ -2,7 +2,7 @@
 
 > **Note**: Currently only works on katmai in DingLab (using absolute paths and existing conda environment)
 
-**Author**: Simon (2025-08-21)  
+**Author**: Simon/Clara/Dan (2025-08-21)  
 **Based on**: Clara's InferCNV implementation
 
 ## Quick Start
